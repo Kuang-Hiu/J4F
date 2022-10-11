@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 import cv2
 
-DEMO_IMAGE = './BAT.jpg'
+DEMO_IMAGE = '.J4F/BAT.jpg'
 
 
 # sketching the images
